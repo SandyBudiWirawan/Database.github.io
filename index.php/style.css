@@ -1,0 +1,29 @@
+body{
+	background-image: url(img/unpak2.jpg);
+	background-repeat: no-repeat;
+	background-size: 180px;
+	background-position:center;
+	background-position: right 80px;
+	
+}
+	h2{
+		position: absolute;
+		margin: -10px;
+		width: 1326px;
+		color:white;  
+		background-color:purple;  
+		padding:20px;
+		font-family: sans-serif;
+		}  
+		p{  
+		color:black; 
+		}
+	ul{
+		margin-left: -50px;
+	}
+	div{
+		margin-left: 5px;
+	}
+
+
+

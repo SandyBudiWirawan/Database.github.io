@@ -1,0 +1,10 @@
+body{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	height: 600px;
+	background-color: pink;
+	align-items: center;
+	font-family: sans-serif;
+}
